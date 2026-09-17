@@ -1,9 +1,0 @@
-<Project>
-  <PropertyGroup>
-    <NoWarn>$(NoWarn);NU1510</NoWarn>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <EnableNUnitRunner>true</EnableNUnitRunner>
-  </PropertyGroup>
-</Project>
